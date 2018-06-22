@@ -19,7 +19,7 @@ sleep(0.5)
 puts "turn"
 sleep(1)
 end
-end
+
 a_few_more_steps
 
 def how_many_steps
