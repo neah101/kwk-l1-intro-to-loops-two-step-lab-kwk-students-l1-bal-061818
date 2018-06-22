@@ -6,7 +6,7 @@ def first_steps
   puts "stop"
   sleep (1)
 end
-end
+
 first_steps
 
 def a_few_more_steps
