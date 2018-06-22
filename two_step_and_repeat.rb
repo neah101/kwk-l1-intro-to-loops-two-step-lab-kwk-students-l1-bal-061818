@@ -6,6 +6,7 @@ def first_steps
   puts "stop"
   sleep (1)
 end
+end
 first_steps
 
 def a_few_more_steps
@@ -17,6 +18,7 @@ puts "right foot steps right"
 sleep(0.5)
 puts "turn"
 sleep(1)
+end
 end
 a_few_more_steps
 
